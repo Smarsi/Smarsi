@@ -27,40 +27,11 @@
 
 <h2>How can you reach me?</h2>
 
-<div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-
-</div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-</div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-</div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
-</div>
-
-<div style="float:left; margin:6px;">
-
-<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
-</div>
-
-</div>
+<h4>💻 Linkedin: <a href="https://www.linkedin.com/in/richardsmarsi/">https://www.linkedin.com/in/richardsmarsi/</a></h4>
+<h4>📷 Instagram: <a href="https://www.instagram.com/rich_smarsi/">@rich_smarsi</a></h4>
+<h4>📰 Reddit: <a href="https://www.reddit.com/user/Smarsi">https://www.reddit.com/user/Smarsi</a></h4>
+<h4>🤓 GitHub: <a href="https://github.com/Smarsi">github.com/Smarsi</a></h4>
+<h4>📩 Personal Email: <a href="mailto:ricsmarsi@gmail.com">ricsmarsi@gmail.com</a></h4>
 
 <br>
 <br>
