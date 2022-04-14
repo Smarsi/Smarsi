@@ -27,11 +27,11 @@
 
 <h2>How can you reach me?</h2>
 
-<h4>💻 Linkedin: <a href="https://www.linkedin.com/in/richardsmarsi/">https://www.linkedin.com/in/richardsmarsi/</a></h4>
-<h4>📷 Instagram: <a href="https://www.instagram.com/rich_smarsi/">@rich_smarsi</a></h4>
-<h4>📰 Reddit: <a href="https://www.reddit.com/user/Smarsi">https://www.reddit.com/user/Smarsi</a></h4>
-<h4>🤓 GitHub: <a href="https://github.com/Smarsi">github.com/Smarsi</a></h4>
-<h4>📩 Personal Email: <a href="mailto:ricsmarsi@gmail.com">ricsmarsi@gmail.com</a></h4>
+<h4>💻 Linkedin: <a target="_blank" href="https://www.linkedin.com/in/richardsmarsi/">https://www.linkedin.com/in/richardsmarsi/</a></h4>
+<h4>📷 Instagram: <a target="_blank" href="https://www.instagram.com/rich_smarsi/">@rich_smarsi</a></h4>
+<h4>📰 Reddit: <a target="_blank" href="https://www.reddit.com/user/Smarsi">https://www.reddit.com/user/Smarsi</a></h4>
+<h4>🤓 GitHub: <a target="_blank" href="https://github.com/Smarsi">github.com/Smarsi</a></h4>
+<h4>📩 Personal Email: <a target="_blank" href="mailto:ricsmarsi@gmail.com">ricsmarsi@gmail.com</a></h4>
 
 <br>
 <br>
