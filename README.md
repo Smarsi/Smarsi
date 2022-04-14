@@ -19,7 +19,7 @@
 
 <h4>I enjoy to learn new technologies. From 2020 until now I've learned Python, Django, TypeScript, Angular and some other Web languages.</h4>
 
-<h4>Today I'm working in a bank in Brazil (Itaú) in the area of Tech Products. We use the Service Now platform and I act creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. 🤓</h4>
+<h4>Today I'm working in a bank in Brazil (Itaú) in the area of Tech Products. We use the Service Now platform and I act creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. </h4>
 
 <h4>Out of the world of work I like to read some personal development books (focus, time management, subject...).<br> I'm a games lover and spend some time playing with my frinds at the internet. 🎮 <br> Currently I'm learning play the guitar and studying some music. 🎵🎸</h4>
 
@@ -27,22 +27,38 @@
 
 <h2>How can you reach me?</h2>
 
-
 <div>
 
-<a href="https://www.instagram.com/rich_smarsi/">
 <div style="float:left; margin:6px;">
 
-![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-</div>
-</a>
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
-<a href="https://www.instagram.com/rich_smarsi/">
+</div>
+
 <div style="float:left; margin:6px;">
 
-![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </div>
-</a>
+
+<div style="float:left; margin:6px;">
+
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+</div>
+
+<div style="float:left; margin:6px;">
+
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+</div>
+
+<div style="float:left; margin:6px;">
+
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
+</div>
+
+<div style="float:left; margin:6px;">
+
+<a href="https://www.instagram.com/rich_smarsi/">![Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
+</div>
 
 </div>
 
