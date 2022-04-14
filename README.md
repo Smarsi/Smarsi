@@ -13,19 +13,19 @@
 
 # About me 🚀
 
-<h6>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h6>
+<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
 
-<h6>I am currently on my way to earning my degree in Systems Analysis and Development. 📚</h6>
+<h4>I am currently on my way to earning my degree in Systems Analysis and Development. 📚</h4>
 
-<h6>I enjoy to learn new technologies. From 2020 until now I've learned Python, Django, TypeScript, Angular and some other Web languages.</h6>
+<h4>I enjoy to learn new technologies. From 2020 until now I've learned Python, Django, TypeScript, Angular and some other Web languages.</h4>
 
-<h6>Today I'm working at a bank in Brazil (Banco Itaú) with the Service Now platform, creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. 🦸‍♂️</h6>
+<h4>Today I'm working in a bank in Brazil (Itaú) in the area of Tech Products. We use the Service Now platform and I act creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. 🤓</h4>
 
-<h6>Out of the world of work I like to read some personal development books (focus, time management, subject...). I'm a games lover and spend some time playing with my frinds at the internet.</h6>
+<h4>Out of the world of work I like to read some personal development books (focus, time management, subject...).<br> I'm a games lover and spend some time playing with my frinds at the internet. 🎮 <br> Currently I'm learning play the guitar and studying some music. 🎵🎸</h4>
 
 <br>
 
-<h4>How can you reach me?</h4>
+<h2>How can you reach me?</h2>
 
 
 <div>
@@ -72,7 +72,7 @@
 
 # Achivements 🏅
 
-<h6>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h6>
+<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
 
 *****
 
@@ -80,7 +80,7 @@
 
 # Jobs 💻
 
-<h6>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h6>
+<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
 
 *****
 
@@ -88,7 +88,7 @@
 
 # Knowledge 📝
 
-<h6>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h6>
+<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
 
 *****
 
