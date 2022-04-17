@@ -45,8 +45,8 @@
 <br>
 
 <h4><b>2019 - </b>System Support Job</h4>
-<h4><b>2019 - </b>Mobile Development (Android using Android Studio). <a>Click here</a></h4>
-<h4><b>2019 - </b>Web API develpment with PHP. <a>Click here</a></h4>
+<h4><b>2019 - </b>Mobile Development (Android using Android Studio). <a href="https://github.com/Smarsi/Aplicacao-Comercial/tree/master/Lojinhob">Click here</a></h4>
+<h4><b>2019 - </b>Web API develpment with PHP. <a href="https://github.com/Smarsi/Aplicacao-Comercial/tree/master/APIprojeto">Click here</a></h4>
 <h4><b>2019 - </b>Database analysis and structuring. <a>Click here</a></h4>
 <h4><b>2020 - </b>Improve web development with a <a>udemy course</a></h4>
 <h4><b>2020 - </b>From basic to advanced level in javascript. <a>Click here</a></h4>
