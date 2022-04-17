@@ -2,7 +2,6 @@
 
 <p align="center">
  <a href="#about">About me</a> •
- <a href="#achivements">Achivements</a> • 
  <a href="#jobs">Jobs</a> • 
  <a href="#knowledge">Knowledge</a> • 
 </p>
@@ -39,14 +38,6 @@
 
 *****
 
-<div id="achivements"/>
-
-# Achivements 🏅
-
-<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
-
-*****
-
 <div id="jobs"/>
 
 # Jobs 💻
@@ -72,7 +63,7 @@
 
 <br>
 
-> NOTE : some steps have no link because they were performed within some companies
+> NOTE : Some steps have no link because they were performed within some companies
 
 *****
 
@@ -80,25 +71,26 @@
 
 # Knowledge 📝
 
-| Technology | Level | Years Of Experience |
-| ---------- | ----- | ------------------- |
-| Python     | Advanced | <h4 align=center> 3</h4>|
-| Javascript     | Advanced | <h4 align=center> 4 </h4>|
-| Java     | Intermediate | <h4 align=center> 4 </h4>|
-| PHP     | Basic | <h4 align=center> 4 </h4>|
-| DJango  | Advanced | <h4 align=center> 2 </h4>|
-| DJango Rest Framework    | Advanced | <h4 align=center> 2 </h4>|
-| Next  | Intermediate | <h4 align=center> 3 </h4>|
-| Node  | Advanced | <h4 align=center> 3 </h4>|
-| React  | Basic | <h4 align=center> 2 </h4>|
-| Android     | Intermediate | <h4 align=center> 4 </h4>|
-| Rest APIs     | Advanced | <h4 align=center> 4 </h4>|
-| Programming Logic     | Advanced | <h4 align=center> 4 </h4>|
-| IA    | Intermediate | <h4 align=center> 4 </h4>|
-| Angular  | Intermediate | <h4 align=center> 2 </h4>|
-| Linux  | Advanced | <h4 align=center> 5 </h4>|
-| Windows & Windows Server | Advanced | <h4 align=center> 7 </h4>|
-| Automation | Intermediate | <h4 align=center> 2 </h4>|
+| Technology | Level | Years Of Experience |    |
+| ---------- | ----- | ------------------- | -- |
+| Python     | Advanced | <h4 align=center> 3</h4>| ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Javascript     | Advanced | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+| Java     | Intermediate | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+| PHP     | Basic | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+| DJango  | Advanced | <h4 align=center> 2 </h4>| ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+| DJango Rest Framework    | Advanced | <h4 align=center> 2 </h4>| ![](	https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+| Next  | Intermediate | <h4 align=center> 3 </h4>| ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Node  | Advanced | <h4 align=center> 3 </h4>| ![](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+| React  | Basic | <h4 align=center> 2 </h4>| ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+| Android     | Intermediate | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+| Rest APIs     | Advanced | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/API-Rest-yellowgreen)
+| Programming Logic     | Advanced | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/%2B-Programming%20Logic-red)
+| AI    | Intermediate | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/Artificial-Inteligence-blue)
+| Angular  | Intermediate | <h4 align=center> 2 </h4>| ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+| HTML / CSS | Advanced | <h4 align=center>4</h4>| ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+| Linux  | Advanced | <h4 align=center> 5 </h4>| ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Windows & Windows Server | Advanced | <h4 align=center> 6 </h4>| ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+| Automation | Intermediate | <h4 align=center> 2 </h4>| ![](https://img.shields.io/badge/%2B-Automation-orange)
 
 *****
 
