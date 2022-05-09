@@ -12,15 +12,17 @@
 
 # About me 🚀
 
-<h4>I'm Richard Smarsi, a software developer from Brasil focused on Back-End Web development.</h4>
+<h4>First and Foremost, I'm a brazilian software developer, inovation enthusiast, fueled by my passion on Back End Web development. My love of studying led me to learn Python, Django, TypeScript, Angular and some other languages, which I used to code some projects you can check here.</h4>
 
-<h4>I am currently on my way to earning my degree in Systems Analysis and Development. 📚</h4>
+<h4>Working for Itau-Unibanco since February 2021, my current role involves developing and implementing custom applications that are integrated with the ServiceNow plataform. It requires knowledge on Javascript, CSS, HTML5 and Angular JS.
+</h4>
 
-<h4>I enjoy to learn new technologies. From 2020 until now I've learned Python, Django, TypeScript, Angular and some other Web languages.</h4>
+<h4>At the beggining of 2020, I started studying System and Analysis Development at Fatec-SP, where I've been developing not just IT hard skills, but also soft skills as communication and collaboration. 📚</h4>
 
 <h4>Today I'm working in a bank in Brazil (Itaú) in the area of Tech Products. We use the Service Now platform and I act creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. </h4>
 
-<h4>Out of the world of work I like to read some personal development books (focus, time management, subject...).<br> I'm a games lover and spend some time playing with my frinds at the internet. 🎮 <br> Currently I'm learning play the guitar and studying some music. 🎵🎸</h4>
+<h4>Gaming and Playing guitar are some hobbies of mine. 🎮 🎵 🎸 <br>
+I love reading books that has Personal Development as its main target, specially those that focus on time management, productivity and organization skills.</h4>
 
 <br>
 
