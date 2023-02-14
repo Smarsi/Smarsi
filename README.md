@@ -12,16 +12,14 @@
 
 # About me 🚀
 
-<h4>First and Foremost, I'm a brazilian software developer, inovation enthusiast, fueled by my passion on Back End Web development. My love of studying led me to learn Python, Django, TypeScript, Angular and some other languages, which I used to code some projects you can check here.</h4>
+<h4>I'm a brazilian software developer, fueled by technology.</h4>
 
-<h4>Working for Itau-Unibanco since February 2021, my current role involves developing and implementing custom applications that are integrated with the ServiceNow plataform. It requires knowledge on Javascript, CSS, HTML5 and Angular JS.
+<h4>In the moment working for Itau-Unibanco, my current role involves developing and implementing custom applications that are integrated with the ServiceNow plataform. It requires knowledge on Javascript, CSS, HTML5 and Angular JS.
 </h4>
 
 <h4>At the beggining of 2020, I started studying System and Analysis Development at Fatec-SP, where I've been developing not just IT hard skills, but also soft skills as communication and collaboration. 📚</h4>
 
-<h4>Today I'm working in a bank in Brazil (Itaú) in the area of Tech Products. We use the Service Now platform and I act creating Service Portals with Javascript / CSS / HTML5 / Angular JS. I'm currently improving my kwnoledge base with this technologies. </h4>
-
-<h4>Gaming and Playing guitar are some hobbies of mine. 🎮 🎵 🎸 <br>
+<h4>
 I love reading books that has Personal Development as its main target, specially those that focus on time management, productivity and organization skills.</h4>
 
 <br>
@@ -77,7 +75,7 @@ I love reading books that has Personal Development as its main target, specially
 | ---------- | ----- | ------------------- | -- |
 | Python     | Advanced | <h4 align=center> 3</h4>| ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 | Javascript     | Advanced | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-| Java     | Intermediate | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+| Java     | Basic | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 | PHP     | Basic | <h4 align=center> 4 </h4>| ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 | DJango  | Advanced | <h4 align=center> 2 </h4>| ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 | DJango Rest Framework    | Advanced | <h4 align=center> 2 </h4>| ![](	https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
