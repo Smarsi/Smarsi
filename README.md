@@ -49,7 +49,7 @@ Atuo criando e gerenciando APIs REST, sites e plataformas.
 
 <div id="experiencia"/>
 
-# Trabalhos 💻
+# Experiência 💻
 
 <br>
 
