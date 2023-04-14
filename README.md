@@ -66,6 +66,7 @@ Atuo criando e gerenciando APIs REST, sites e plataformas.
 <h4><b>2021 - </b>Alguns <a href="https://github.com/Smarsi/DJango">projetos didáticos</a> usando DJango</h4>
 <h4><b>2022 - </b>Criação do Backend do site <a href="https://dottcoin.com/">dottcoin</a> </h4>
 <h4><b>2022 - </b>Criação do Backend do Jogo Quest para a aula de Engenharia de Software II <a href="https://github.com/Smarsi/Jogo_Quest/">acesse aqui</a> </h4>
+<h4><b>2022 - </b>Criação da API de gerenciamento de clientes com NodeJs <a href="https://github.com/Smarsi/Gerenciamento-Clientes-Node-JS">acesse aqui</a> </h4>
 
 
 <br>
