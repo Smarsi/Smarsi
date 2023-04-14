@@ -56,6 +56,7 @@ Atuo criando e gerenciando APIs REST, sites e plataformas.
 <h4><b>2019 - </b>Analista de Suporte I</h4>
 <h4><b>2019 - </b>Desenvolvimento Mobile (Android Studio). <a href="https://github.com/Smarsi/Aplicacao-Comercial/tree/master/Lojinhob">Click here</a></h4>
 <h4><b>2019 - </b>Desenvolvimento de API com PHP puro. <a href="https://github.com/Smarsi/Aplicacao-Comercial/tree/master/APIprojeto">Click here</a></h4>
+<h4><b>2020 - </b>Trabalhos como Free Lancer durante a pandemia.</h4>
 <h4><b>2021 - </b>Entrada no banco Itaú para trabalhar com DJango (Python)</h4>
 <h4><b>2021 - </b>Estrtuturando APIs com Django Rest Framework</h4>
 <h4><b>2021 - </b>Do básico ao avançado com Python</h4>
