@@ -15,7 +15,7 @@
 
 <h4>Sou um desenvolvedor de software movido por tecnologia!</h4>
 
-<h4>Atuando como desenvolvedor backend, minhas atividades atuais são voltadas para NodeJs, Express, Python e DJango.<br>
+<h4>Atuando como desenvolvedor backend, minhas atividades atuais são voltadas para Javascript (NodeJs, Express), Python (FastAPI, Flask, DJango, DJango Rest), SQL (PostgreSQL, MySQL, MariaDB, SQLite) e NoSQL (MongoDB)<br>
 Atuo criando e gerenciando APIs REST, sites e plataformas.
 </h4>
 
