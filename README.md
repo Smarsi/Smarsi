@@ -15,7 +15,8 @@
 
 <h4>Sou um desenvolvedor de software movido por tecnologia!</h4>
 
-<h4>Atuando como desenvolvedor backend, minhas atividades atuais são voltadas para Javascript (NodeJs, Express), Python (FastAPI, Flask, DJango, DJango Rest), SQL (PostgreSQL, MySQL, MariaDB, SQLite) e NoSQL (MongoDB)<br>
+<h4>Atuando como desenvolvedor backend, minhas atividades atuais são voltadas para Python (FastAPI, Flask, DJango, DJango Rest), Javascript (NodeJs, Express), SQL (PostgreSQL, MySQL, MariaDB, SQLite), NoSQL (MongoDB) e Sistemas embarcados (C++)<br>
+Também trabalho com visão computacional em sistemas de segurança utilizando ferramentas como OpenCV e YOLO (python e c++).
 Atuo criando e gerenciando APIs REST, sites e plataformas.
 </h4>
 
