@@ -34,20 +34,6 @@ Atuo criando e gerenciando APIs REST, sites e plataformas.
 <br>
 <br>
 
-*****
-
-<div id="trabalhando"/>
-
-<h2>🔭 Trabalhando atualmente em</h2>
-
-<h4>API de gerenciamento de clientes. Você pode encontrar este projeto <a style="text-decoration: underline" target="_blank" href="https://github.com/Smarsi/Gerenciamento-Clientes-Node-JS">clicando aqui</a>.
-<br> É uma API construída com NodeJS e documentada com Swagger. Acesse agora e conheça um pouco do meu trabalho.</h4>
-
-<br>
-<br>
-
-*****
-
 <div id="experiencia"/>
 
 # Experiência 💻
