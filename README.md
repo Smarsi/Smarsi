@@ -1,74 +1,77 @@
-# Olá, eu sou o Richard Smarsi 👋
-### Desenvolvedor de Software | Backend com foco em IA e Visão Computacional
+# Hi, I'm Richard Smarsi 👋
+### Software Developer | Backend, AI & Computer Vision
 
 <p align="center">
-  <a href="#sobre-mim">Sobre Mim</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#interesses">Interesses</a> •
-  <a href="#contato">Contato</a>
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#interests">Interests</a> •
+  <a href="#contact">Contact</a> •
+  <a href="./README-PT.md">Ler em Português 🇧🇷</a>
 </p>
 
 ***
 
-<div id="sobre-mim">
+<div id="about-me">
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou um desenvolvedor Backend especializado em criar soluções web de **alta disponibilidade e baixa latência**. Minha paixão é unir o desenvolvimento robusto de sistemas com a inteligência artificial para resolver problemas complexos.
+I am a Backend Developer specializing in building **high-availability, low-latency web solutions**. My passion lies in merging robust system development with artificial intelligence to solve complex problems.
 
-Atualmente, meu foco principal é a integração e orquestração de Grandes Modelos de Linguagem (LLMs) como **Gemini, ChatGPT e Anthropic**, utilizando ferramentas como **Litestar** e **Langfuse** para construir APIs performáticas e observáveis.
+Currently, my main focus is on integrating and orchestrating Large Language Models (LLMs) like **Gemini, ChatGPT, and Anthropic**, using tools such as **Litestar** and **Langfuse** to build performant and observable APIs.
 
-Possuo sólida experiência em **Visão Computacional**, desenvolvendo sistemas de detecção e monitoramento em tempo real com **OpenCV, YOLO e C++**, incluindo projetos com hardware específico como sensores térmicos da **FLIR**. Para garantir a performance em ambientes críticos, utilizo tecnologias como **WebSockets** e Sockets de rede.
+I have solid experience in **Computer Vision**, developing real-time detection and monitoring systems with **OpenCV, YOLO, and C++**, including projects with specific hardware like **FLIR thermal sensors**. To ensure performance in critical environments, I leverage technologies like **WebSockets** and network sockets.
 
 </div>
 
 <br>
 
-<div id="tecnologias">
+<div id="tech-stack">
 
-## 🛠️ Stack de Tecnologias
+## 🛠️ Tech Stack
 
 #### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Litestar](https://img.shields.io/badge/Litestar-A434B3?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+> **Key Technologies:** Python, FastAPI, Litestar, Django, Flask, Node.js, Express, C++, GraphQL, WebSockets, REST & SOAP APIs.
 
-#### IA & Visão Computacional
+#### AI & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4A40E0?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+> **Key Technologies:** OpenCV, YOLO (v4/v8), CUDA, Langfuse, LLMs (Gemini, ChatGPT), Pandas, NumPy, Pytesseract, EasyOCR.
 
-#### Banco de Dados
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+> **Key Technologies:** PostgreSQL, MySQL, MariaDB, SQLite, MongoDB.
 
 </div>
 
 <br>
 
-<div id="interesses">
+<div id="interests">
 
-## 🔭 Interesses e Exploração
+## 🔭 Interests & Exploration
 
--   👁️ **Visão Computacional Aplicada:** Sou curioso por sistemas de detecção de objetos, tracking e monitoramento ativo para câmeras de segurança, integrando-os com sistemas de alarme online.
--   ⚛️ **Hardware e Sensores:** Desenvolvo projetos pessoais que unem hardware e software, como a criação de um contador Geiger com Arduino para estudos de radiação.
+-   👁️ **Applied Computer Vision:** I'm curious about object detection, tracking, and active monitoring systems for security cameras, integrating them with online alarm systems.
+-   ⚛️ **Hardware & Sensors:** I develop personal projects that merge hardware and software, such as building a Geiger counter with Arduino for radiation studies.
 
 </div>
 
 <br>
 
-<div id="contato">
+<div id="contact">
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/richardsmarsi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ricsmarsi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
