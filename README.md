@@ -1,5 +1,5 @@
 # Hi, I'm Richard Smarsi 👋
-### Software Developer | Backend, AI & Computer Vision
+### Backend & Computer Vision Engineer | Real-time video AI with NVIDIA DeepStream, Triton & CUDA | Python · Go · Linux
 
 <p align="center">
   <a href="#about-me">About Me</a> •
