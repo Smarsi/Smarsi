@@ -17,7 +17,11 @@
 
 I am a Backend Developer specializing in building **high-availability, low-latency web solutions**. My passion lies in merging robust system development with artificial intelligence to solve complex problems.
 
-Currently, my main focus is on integrating and orchestrating Large Language Models (LLMs) like **Gemini, ChatGPT, and Anthropic**, using tools such as **Litestar** and **Langfuse** to build performant and observable APIs.
+Currently, my main focus is **production computer vision**: real-time video inference pipelines built with **NVIDIA DeepStream** and **Triton Inference Server**, GPU acceleration with **CUDA**, and detection/behavior models (**YOLO**, **VLMs**). I also also integrate field sensor data into the vision pipeline.
+
+On the backend side, I build microservices in **Python (FastAPI)** and **Go**, with **NATS** for messaging and **PostgreSQL/Supabase** for persistence — deployed on GCP and dedicated servers, always on Linux.
+
+Previously, I spent a year in the LLM space, building **RAG-based conversational systems** with LangChain, Azure OpenAI, Langfuse and Langwatch.
 
 I have solid experience in **Computer Vision**, developing real-time detection and monitoring systems with **OpenCV, YOLO, and C++**, including projects with specific hardware like **FLIR thermal sensors**. To ensure performance in critical environments, I leverage technologies like **WebSockets** and network sockets.
 
